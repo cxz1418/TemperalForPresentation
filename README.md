@@ -1,5 +1,9 @@
 # Multimodal Compact Bilinear Pooling for VQA
 
+http://www.visualqa.org/static/slides/vqa_final.pdf
+
+https://arxiv.org/pdf/1606.01847.pdf
+
 This is the code that we wrote to train the state-of-the-art VQA models [described in our paper](https://arxiv.org/abs/1606.01847). Our ensemble of 7 models obtained **66.67%** on real open-ended test-dev and **70.24%** on real multiple-choice test-dev.
 
 ## Live Demo
